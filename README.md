@@ -43,3 +43,6 @@ function minimax(node, depth, isMaximizingPlayer, alpha, beta):
 // Calling the function for the first time.
 minimax(0, 0, true, -INFINITY, +INFINITY)
 ~~~~
+
+## Minimax Algorithm Visualisation
+![alt text](https://github.com/snehaj27/Tic-Tac-Toe/blob/main/minimax.png)
